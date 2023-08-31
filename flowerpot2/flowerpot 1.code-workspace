@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../flowerpot 1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "flowerpot2"
+	}
+}
